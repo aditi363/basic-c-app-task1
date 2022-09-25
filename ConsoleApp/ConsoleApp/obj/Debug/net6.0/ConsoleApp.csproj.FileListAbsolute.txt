@@ -1,0 +1,15 @@
+/Users/aditisaini/Projects/ConsoleApp/ConsoleApp/bin/Debug/net6.0/ConsoleApp
+/Users/aditisaini/Projects/ConsoleApp/ConsoleApp/bin/Debug/net6.0/ConsoleApp.deps.json
+/Users/aditisaini/Projects/ConsoleApp/ConsoleApp/bin/Debug/net6.0/ConsoleApp.runtimeconfig.json
+/Users/aditisaini/Projects/ConsoleApp/ConsoleApp/bin/Debug/net6.0/ConsoleApp.dll
+/Users/aditisaini/Projects/ConsoleApp/ConsoleApp/bin/Debug/net6.0/ConsoleApp.pdb
+/Users/aditisaini/Projects/ConsoleApp/ConsoleApp/obj/Debug/net6.0/ConsoleApp.csproj.AssemblyReference.cache
+/Users/aditisaini/Projects/ConsoleApp/ConsoleApp/obj/Debug/net6.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aditisaini/Projects/ConsoleApp/ConsoleApp/obj/Debug/net6.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/aditisaini/Projects/ConsoleApp/ConsoleApp/obj/Debug/net6.0/ConsoleApp.AssemblyInfo.cs
+/Users/aditisaini/Projects/ConsoleApp/ConsoleApp/obj/Debug/net6.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/aditisaini/Projects/ConsoleApp/ConsoleApp/obj/Debug/net6.0/ConsoleApp.dll
+/Users/aditisaini/Projects/ConsoleApp/ConsoleApp/obj/Debug/net6.0/refint/ConsoleApp.dll
+/Users/aditisaini/Projects/ConsoleApp/ConsoleApp/obj/Debug/net6.0/ConsoleApp.pdb
+/Users/aditisaini/Projects/ConsoleApp/ConsoleApp/obj/Debug/net6.0/ConsoleApp.genruntimeconfig.cache
+/Users/aditisaini/Projects/ConsoleApp/ConsoleApp/obj/Debug/net6.0/ref/ConsoleApp.dll
