@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <script type="text/javascript" src="index.js"></script>
+    <title>Assignment 2, Prog-8020</title>
+</head>
+<body>
+<div>
+    <h1 style="text-align: center; color: rgb(18, 92, 11);">Garage Sale Fundraiser Form</h1>
+    <label for="name">User Name: </label>
+    <input type="text" class="p" id="name" placeholder="First Last"><br><br>
+
+    <label for="email">Email Address: </label>
+    <input type="text" class="p" id="email" placeholder="email@domain.com"><br><br>
+
+    <label for="credit">Credit Card Info: </label>
+    <input type="text" class="p" id="credit" placeholder="XXXX-XXXX-XXXX-XXXX"><br><br>
+
+    <label for="month">Expiry month: </label>
+    <input type="text" class="p" id="month" placeholder="MMM"><br><br>
+
+    <label for="year">Expiry year: </label>
+    <input type="text" class="p" id="year" placeholder="YYYY"><br><br>
+
+    <input type="button" value="Submit" onclick=submit()> <br>
+
+    
+    <p class="error" id="error"></p><br>
+
+    </div>
+    
+    <div class="test" id="test" style="display: none;">
+
+     <label for="P1">Product 1 for 110$</label>
+     <input type="button" class="buy" value="Buy" id="P1"><br><br>
+
+     <label for="P2">Product 2 for 110$</label>
+     <input type="button" class="buy" value="Buy" id="P2"><br><br>
+ 
+     <label for="P3">Product 3 for 110$</label>
+     <input type="button" class="buy" value="Buy" id="P3"><br><br>
+     
+     <label for="P4">Product 4 for 110$</label>
+     <input type="button" class="buy" value="Buy" id="P4"><br><br>
+
+     <label for="P5">Product 5 for 110$</label>
+     <input type="button" class="buy" value="Buy" id="P5"><br><br>
+
+        </div>
+
+<div>
+    <img src="./img/img.png" alt="sale" height="300" width="1200">
+</div>
+
+        <div class="product" id="sum" style="display: none;">
+
+            <label for="sum_p" style="font-size: 30px;">product sum: </label><br>
+
+            <input type="number" class="sum" id="sum_p" style="font-size: 30px;">
+
+            <centre><input type="button" id="run" value="Submit"></centre>
+
+            <p class="error" id="error" style="display: none;"></p>
+
+        </div>
+
+    <footer>
+    All the copyrights are reserved by &copy; Aditi Saini
+</footer>
+</body>
+</html>

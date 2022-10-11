@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+    text-align: center;
+    font-family: 'Bilbo Swash Caps', cursive;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #2c2c2c;
+}
+h1{
+    background-color: rgb(237, 196, 237);
+}
+.error{
+    display: none;
+}
+.a{
+    box-shadow: 0 0 10px #2c2c2c;
+}
+.bill{
+    background-color: darkgreen;
+}
